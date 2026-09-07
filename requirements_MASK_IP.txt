@@ -1,0 +1,9 @@
+# Requirements pour MASK_IP.py
+# Calculateur avancé de masques de sous-réseau IPv4/IPv6
+# Créé par HackersTchad
+
+# Affichage terminal enrichi
+rich>=13.0.0
+colorama>=0.4.6
+
+# Module standard utilisé : ipaddress, math, time, socket, struct, argparse
