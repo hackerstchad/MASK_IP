@@ -27,7 +27,7 @@ pip install -r requirements_MASK_IP.txt
 
 ## Utilisation
 
-<a href="https://https://asciinema.org/a/1264812"><img src="https://asciinema.org/a/1264812.svg" alt="asciinema CLI demo" width="100%" /></a>
+[![Démonstration Asciinema](https://asciinema.org/a/1264812.svg)](https://asciinema.org/a/1264812)
 
 ### Mode interactif
 
