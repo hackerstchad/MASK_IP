@@ -29,6 +29,8 @@ pip install -r requirements_MASK_IP.txt
 
 [![Démonstration Asciinema](https://asciinema.org/a/1264812.svg)](https://asciinema.org/a/1264812)
 
+
+
 ### Mode interactif
 
 ```bash
