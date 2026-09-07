@@ -26,7 +26,7 @@ pip install -r requirements_MASK_IP.txt
 ```
 
 ## Utilisation
-[asciinema.cast[https://asciinema.org/a/1264812.org]("https://asciinema.org/a/1264812")
+[asciinema.cast][https://asciinema.org/a/1264812.org]("https://asciinema.org/a/1264812")
 
 ### Mode interactif
 
