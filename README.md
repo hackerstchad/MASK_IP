@@ -1,9 +1,12 @@
 # MASK_IP — Calculateur Avancé de Masques de Sous-Réseau
 
+<img width="1248" height="832" alt="OIG3 AbZqg1c" src="https://github.com/user-attachments/assets/bfefb797-e794-48df-a4d2-4d0b93b06eaf" />
+
+
 > **Créé par HackersTchad**  
 > Version 3.0.0 | Python 3.8+
 
-MASK_IP est un calculateur de sous-réseaux IPv4 et IPv6 très avancé, stylisé en rouge avec barres de progression. Il permet d'analyser une adresse IP, de convertir masque/CIDR, de découper un réseau en sous-réseaux (VLSM), et d'agréger des routes (supernet).
+MASK_IP est un calculateur de sous-réseaux IPv4 et IPv6 très avancé, Il permet d'analyser une adresse IP, de convertir masque/CIDR, de découper un réseau en sous-réseaux (VLSM), et d'agréger des routes (supernet).
 
 ## Caractéristiques
 
