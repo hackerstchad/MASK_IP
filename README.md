@@ -16,8 +16,7 @@ MASK_IP est un calculateur de sous-réseaux IPv4 et IPv6 très avancé, Il perme
 - Découpage VLSM d'un réseau parent
 - Agrégation de routes (supernet)
 - Affichage binaire et hexadécimal
-- Interface interactive ou CLI
-- Barre de progression stylisée
+- Interface interactive
 
 ## Installation
 
